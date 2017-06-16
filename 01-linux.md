@@ -1,7 +1,5 @@
 ## Linux常用快捷键
 
-### 常用快捷键
-
 > ctrl + c 强制终止
 >
 > ctrl + l 清屏相当于clear
