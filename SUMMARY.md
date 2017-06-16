@@ -1,8 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [What is XYZ?](first-question.md)
-* [How can I do X?](second-question.md)
-* [01-Linux](01-linux.md)
-* [Linux初始化](linuxchu-shi-hua.md)
+* [01-Linux常用快捷键](01-linux.md)
+* [001-Linux初始化](linuxchu-shi-hua.md)
 
