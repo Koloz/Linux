@@ -33,5 +33,3 @@ hostname CentOS7-HK
 
 
 
-
-
