@@ -2,15 +2,17 @@
 
 * 初始化
 
-
-
 shell
 
-
-
-echo 
+echo
 
 \#!/bin/bash
 
 ![](/assets/import1.png)
+
+---
+
+---
+
+
 
